@@ -1,4 +1,4 @@
-const url =  "https://api.nasa.gov/planetary/apod?api_key=UD2PkBfuXlOLdqinJ2IDiTDmIRUHO8OoDlRARNmF&count=15"
+const url =  "https://api.nasa.gov/planetary/apod?api_key=UD2PkBfuXlOLdqinJ2IDiTDmIRUHO8OoDlRARNmF&count=30"
 
 async function listaImagenes() {
 
